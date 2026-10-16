@@ -24,4 +24,4 @@ This file contains a concise record of the Codex work in this workspace. It is n
 - The dashboard navigation was updated to a desktop sidebar that collapses to a horizontal section bar on narrow screens. The synthetic-data badge, as-of date and active data source are presented in the footer.
 - Platform health retains the current 422 count and first-to-last reduction metrics, while the weekly 422 chart was removed at the owner's direction. Weekly recoveries by type remain charted.
 - Recorded QA: Node suite 48 passed/0 failed; browser suite 48 passed/0 failed. Chrome smoke covered `file://` and HTTP sources, all seven sections in light/dark themes at 400 px, and zero console errors. Performance timing and KPI coverage percentage were not reported.
-- Documentation was aligned with these changes. No GitHub repository was created or pushed. This remains a concise session record, not a verbatim chat export.
+- Documentation was aligned with these changes. The complete project was committed and pushed to `https://github.com/anvesha-bagaria/PAL-Dashboard` on `main`. This remains a concise session record, not a verbatim chat export.

@@ -113,4 +113,4 @@ Statuses: **Done** = present and reviewed; **In progress** = underway; **Not sta
 - Recorded verification: Node suite **48 passed, 0 failed**; browser suite **48 passed, 0 failed**. Chrome smoke covered `file://` bundled data and HTTP JSON sources, all seven sections in light/dark themes at 400 px, and zero console errors.
 - The smoke pass establishes page-level overflow and runtime behavior for those cases. KPI-code coverage percentage and measured render-time targets were not separately reported.
 - Platform health displays latest-week 422 count and reduction as KPI tiles, plus weekly stacked recoveries; the weekly 422 chart is intentionally omitted by product decision.
-- No GitHub repository was created and no push was performed. Owner-specific submission timing, destination and time-saved inputs remain open.
+- The complete project was committed and pushed to `https://github.com/anvesha-bagaria/PAL-Dashboard` on `main`. Owner-specific submission timing and time-saved inputs remain open.

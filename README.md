@@ -38,4 +38,4 @@ Run `node tests/run-node.js` for the Node suite. Open `tests/test-runner.html` i
 
 The assignment date listed in the brief is 15 October 2026. Confirm the late submission timing with the assignment recipient before submitting. Human hands-on time, a no-AI baseline, recipient details and time saved were not measured; fill them in from actual records rather than estimating.
 
-No GitHub repository has been created and no push has been performed. The workspace has no Git metadata and no authenticated GitHub CLI/browser session was available during the preparation check.
+The complete project is committed and pushed to [PAL-Dashboard](https://github.com/anvesha-bagaria/PAL-Dashboard) on `main`.
