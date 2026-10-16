@@ -1,0 +1,15 @@
+{
+  "title": "PAL Insights Dashboard - synthetic demo data",
+  "generated_by": "tools/generate_data.py (AI-generated, fictional)",
+  "seed": 20261015,
+  "as_of": "2026-10-15",
+  "window_start": "2026-08-17",
+  "window_days": 60,
+  "disclaimer": "Fictional schools, students and numbers. No real learners and no database.",
+  "thresholds": {
+    "weak_below": 0.4,
+    "strong_from": 0.7,
+    "challenge_ready_from": 0.8,
+    "inactive_days": 14
+  }
+}

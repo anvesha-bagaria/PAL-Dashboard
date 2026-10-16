@@ -1,0 +1,449 @@
+{
+  "stage_names": {
+    "S1": "Parse and hierarchy",
+    "S2": "LOs and concepts",
+    "S3": "Prerequisites",
+    "S4": "Question and content tags",
+    "S5": "Graph enrichment"
+  },
+  "books": [
+    {
+      "id": "BK-M1",
+      "chapter_id": "M1",
+      "title": "Mathematics - Integers",
+      "pages": 20,
+      "last_run": "2026-10-02",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 9.0,
+          "elements": 454
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 2.3,
+          "los": 10,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 2.2,
+          "edges": 2
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 6.0,
+          "questions_tagged": 104,
+          "content_tagged": 14
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 4.1
+        }
+      }
+    },
+    {
+      "id": "BK-M2",
+      "chapter_id": "M2",
+      "title": "Mathematics - Fractions",
+      "pages": 22,
+      "last_run": "2026-09-17",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 3.1,
+          "elements": 405
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 4.0,
+          "los": 10,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 3.6,
+          "edges": 3
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 8.8,
+          "questions_tagged": 99,
+          "content_tagged": 6
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 5.3
+        }
+      }
+    },
+    {
+      "id": "BK-M3",
+      "chapter_id": "M3",
+      "title": "Mathematics - Decimals",
+      "pages": 15,
+      "last_run": "2026-09-26",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 1.7,
+          "elements": 222
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 8.4,
+          "los": 11,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 8.1,
+          "edges": 3
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 6.6,
+          "questions_tagged": 131,
+          "content_tagged": 16
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 9.0
+        }
+      }
+    },
+    {
+      "id": "BK-M4",
+      "chapter_id": "M4",
+      "title": "Mathematics - Ratio and Proportion",
+      "pages": 16,
+      "last_run": "2026-10-10",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 8.4,
+          "elements": 297
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 7.1,
+          "los": 13,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 5.6,
+          "edges": 3
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 3.1,
+          "questions_tagged": 164,
+          "content_tagged": 9
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 8.7
+        }
+      }
+    },
+    {
+      "id": "BK-M5",
+      "chapter_id": "M5",
+      "title": "Mathematics - Algebra Basics",
+      "pages": 16,
+      "last_run": "2026-09-30",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 7.2,
+          "elements": 224
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 7.0,
+          "los": 15,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 4.0,
+          "edges": 3
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 5.9,
+          "questions_tagged": 178,
+          "content_tagged": 8
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 6.4
+        }
+      }
+    },
+    {
+      "id": "BK-M6",
+      "chapter_id": "M6",
+      "title": "Mathematics - Mensuration",
+      "pages": 20,
+      "last_run": "2026-09-20",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 2.0,
+          "elements": 313
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 7.8,
+          "los": 15,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 5.9,
+          "edges": 3
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 4.2,
+          "questions_tagged": 133,
+          "content_tagged": 14
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 3.3
+        }
+      }
+    },
+    {
+      "id": "BK-SC1",
+      "chapter_id": "SC1",
+      "title": "Science - Food and Nutrition",
+      "pages": 28,
+      "last_run": "2026-10-02",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 6.5,
+          "elements": 449
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 1.2,
+          "los": 11,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 1.1,
+          "edges": 2
+        },
+        "S4": {
+          "status": "failed",
+          "minutes": 9.0,
+          "questions_tagged": 90,
+          "content_tagged": 18,
+          "error": "Embedding provider rate limit; retry scheduled"
+        },
+        "S5": {
+          "status": "pending",
+          "minutes": 1.3
+        }
+      }
+    },
+    {
+      "id": "BK-SC2",
+      "chapter_id": "SC2",
+      "title": "Science - Materials",
+      "pages": 24,
+      "last_run": "2026-10-11",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 4.2,
+          "elements": 421
+        },
+        "S2": {
+          "status": "completed",
+          "minutes": 4.4,
+          "los": 11,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "completed",
+          "minutes": 5.1,
+          "edges": 2
+        },
+        "S4": {
+          "status": "completed",
+          "minutes": 8.9,
+          "questions_tagged": 104,
+          "content_tagged": 12
+        },
+        "S5": {
+          "status": "completed",
+          "minutes": 2.9
+        }
+      }
+    },
+    {
+      "id": "BK-SC3",
+      "chapter_id": "SC3",
+      "title": "Science - Motion",
+      "pages": 31,
+      "last_run": "2026-10-13",
+      "stages": {
+        "S1": {
+          "status": "completed",
+          "minutes": 8.3,
+          "elements": 272
+        },
+        "S2": {
+          "status": "running",
+          "minutes": 4.3,
+          "los": 11,
+          "concepts": 3,
+          "progress_pct": 62
+        },
+        "S3": {
+          "status": "pending",
+          "minutes": 2.0,
+          "edges": 2
+        },
+        "S4": {
+          "status": "pending",
+          "minutes": 1.5,
+          "questions_tagged": 98,
+          "content_tagged": 11
+        },
+        "S5": {
+          "status": "pending",
+          "minutes": 7.4
+        }
+      }
+    },
+    {
+      "id": "BK-SC4",
+      "chapter_id": "SC4",
+      "title": "Science - Light",
+      "pages": 30,
+      "last_run": "2026-09-17",
+      "stages": {
+        "S1": {
+          "status": "running",
+          "minutes": 4.6,
+          "elements": 314,
+          "progress_pct": 35
+        },
+        "S2": {
+          "status": "pending",
+          "minutes": 6.2,
+          "los": 12,
+          "concepts": 3
+        },
+        "S3": {
+          "status": "pending",
+          "minutes": 4.5,
+          "edges": 2
+        },
+        "S4": {
+          "status": "pending",
+          "minutes": 2.6,
+          "questions_tagged": 112,
+          "content_tagged": 12
+        },
+        "S5": {
+          "status": "pending",
+          "minutes": 8.1
+        }
+      }
+    }
+  ],
+  "question_bank": {
+    "total": 2752,
+    "by_source": {
+      "cms_bank": 2140,
+      "ai_generated": 612
+    },
+    "verified": {
+      "verified": 1688,
+      "unverified": 1064
+    },
+    "by_difficulty": {
+      "low": 724,
+      "medium": 1318,
+      "high": 710
+    },
+    "by_chapter": {
+      "M1": 192,
+      "M2": 356,
+      "M3": 216,
+      "M4": 354,
+      "M5": 320,
+      "M6": 345,
+      "SC1": 198,
+      "SC2": 244,
+      "SC3": 309,
+      "SC4": 218
+    }
+  },
+  "generator": {
+    "window_days": 30,
+    "requested": 1240,
+    "returned": 1198,
+    "passed_schema": 1151,
+    "passed_katex": 1089,
+    "saved_to_cms": 1076,
+    "failures": {
+      "schema_invalid": 47,
+      "katex_invalid": 62,
+      "cms_save_failed": 13,
+      "duplicate": 29
+    },
+    "providers": {
+      "external": 812,
+      "self_generated": 301,
+      "template_fallback": 85
+    }
+  },
+  "llm_usage": [
+    {
+      "stage": "S1 hierarchy and blocks",
+      "calls": 1840,
+      "tokens_m": 6.2,
+      "p50_ms": 3100
+    },
+    {
+      "stage": "S2 LOs and concepts",
+      "calls": 2210,
+      "tokens_m": 9.8,
+      "p50_ms": 4200
+    },
+    {
+      "stage": "S3 prerequisites",
+      "calls": 960,
+      "tokens_m": 3.1,
+      "p50_ms": 2700
+    },
+    {
+      "stage": "S4 question and content tags",
+      "calls": 14300,
+      "tokens_m": 21.4,
+      "p50_ms": 2400
+    },
+    {
+      "stage": "Runtime summaries",
+      "calls": 5120,
+      "tokens_m": 2.2,
+      "p50_ms": 620
+    },
+    {
+      "stage": "Question generation",
+      "calls": 1198,
+      "tokens_m": 7.5,
+      "p50_ms": 5600
+    }
+  ]
+}

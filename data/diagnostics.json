@@ -1,0 +1,98 @@
+[
+  {
+    "school_id": "S101",
+    "started": 61,
+    "completed": 59,
+    "avg_questions": 10.7,
+    "concept_classes": {
+      "knows": 253,
+      "uncertain": 382,
+      "gap": 191
+    },
+    "stop_reasons": {
+      "classified": 36,
+      "max_questions": 23
+    },
+    "avg_minutes": 9.8
+  },
+  {
+    "school_id": "S102",
+    "started": 60,
+    "completed": 58,
+    "avg_questions": 9.5,
+    "concept_classes": {
+      "knows": 294,
+      "uncertain": 332,
+      "gap": 186
+    },
+    "stop_reasons": {
+      "classified": 35,
+      "max_questions": 23
+    },
+    "avg_minutes": 7.7
+  },
+  {
+    "school_id": "S103",
+    "started": 55,
+    "completed": 49,
+    "avg_questions": 10.6,
+    "concept_classes": {
+      "knows": 222,
+      "uncertain": 296,
+      "gap": 168
+    },
+    "stop_reasons": {
+      "classified": 30,
+      "max_questions": 19
+    },
+    "avg_minutes": 8.7
+  },
+  {
+    "school_id": "S104",
+    "started": 44,
+    "completed": 40,
+    "avg_questions": 12.2,
+    "concept_classes": {
+      "knows": 202,
+      "uncertain": 242,
+      "gap": 116
+    },
+    "stop_reasons": {
+      "classified": 24,
+      "max_questions": 16
+    },
+    "avg_minutes": 8.7
+  },
+  {
+    "school_id": "S105",
+    "started": 38,
+    "completed": 34,
+    "avg_questions": 9.6,
+    "concept_classes": {
+      "knows": 165,
+      "uncertain": 219,
+      "gap": 92
+    },
+    "stop_reasons": {
+      "classified": 21,
+      "max_questions": 13
+    },
+    "avg_minutes": 7.9
+  },
+  {
+    "school_id": "S106",
+    "started": 0,
+    "completed": 0,
+    "avg_questions": 9.9,
+    "concept_classes": {
+      "knows": 0,
+      "uncertain": 0,
+      "gap": 0
+    },
+    "stop_reasons": {
+      "classified": 0,
+      "max_questions": 0
+    },
+    "avg_minutes": 8.9
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "note": "Synthetic operational data for the demo.",
+  "weeks": [
+    "2026-08-20",
+    "2026-08-27",
+    "2026-09-03",
+    "2026-09-10",
+    "2026-09-17",
+    "2026-09-24",
+    "2026-10-01",
+    "2026-10-08",
+    "2026-10-15"
+  ],
+  "http_422": [
+    127,
+    119,
+    131,
+    124,
+    96,
+    41,
+    18,
+    11,
+    9
+  ],
+  "release_markers": [
+    {
+      "week_index": 5,
+      "label": "Stale-submit fixes released"
+    }
+  ],
+  "recoveries": {
+    "stale_session_answer": [
+      0,
+      0,
+      0,
+      0,
+      12,
+      33,
+      41,
+      38,
+      44
+    ],
+    "practice_during_challenge": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      9,
+      7,
+      6,
+      8
+    ],
+    "late_challenge_answer": [
+      0,
+      0,
+      0,
+      0,
+      6,
+      14,
+      12,
+      10,
+      9
+    ],
+    "content_view_recovered": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      8,
+      11,
+      9,
+      10
+    ]
+  },
+  "latency": [
+    {
+      "group": "Sessions",
+      "p50_ms": 85,
+      "p95_ms": 240,
+      "error_pct": 0.2
+    },
+    {
+      "group": "Answers",
+      "p50_ms": 210,
+      "p95_ms": 620,
+      "error_pct": 0.4
+    },
+    {
+      "group": "Next action",
+      "p50_ms": 160,
+      "p95_ms": 480,
+      "error_pct": 0.3
+    },
+    {
+      "group": "Question recommendations",
+      "p50_ms": 540,
+      "p95_ms": 3900,
+      "error_pct": 0.9
+    },
+    {
+      "group": "Challenge",
+      "p50_ms": 230,
+      "p95_ms": 700,
+      "error_pct": 0.5
+    },
+    {
+      "group": "Diagnostic",
+      "p50_ms": 260,
+      "p95_ms": 810,
+      "error_pct": 0.6
+    },
+    {
+      "group": "Dashboard progress",
+      "p50_ms": 320,
+      "p95_ms": 1100,
+      "error_pct": 0.1
+    }
+  ],
+  "uptime_pct": 99.93
+}

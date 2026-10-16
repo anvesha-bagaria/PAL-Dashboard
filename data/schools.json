@@ -1,0 +1,301 @@
+[
+  {
+    "id": "S101",
+    "name": "Lakshya Public School",
+    "city": "Bengaluru",
+    "board": "CBSE",
+    "pal_enabled": true,
+    "sections": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "learner_count": 84,
+    "onboarded_on": "2026-08-25",
+    "require_verified_questions": true,
+    "dashboard_logins": 1,
+    "sync": {
+      "geneo_students": 612,
+      "linked_learners": 84,
+      "pending_to_link": 0,
+      "last_sync_at": "2026-10-15T02:00:00Z",
+      "status": "synced",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "linked": 84,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-14",
+          "linked": 83,
+          "new_links": 3
+        },
+        {
+          "date": "2026-10-13",
+          "linked": 78,
+          "new_links": 3
+        },
+        {
+          "date": "2026-10-12",
+          "linked": 81,
+          "new_links": 2
+        },
+        {
+          "date": "2026-10-11",
+          "linked": 72,
+          "new_links": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "S102",
+    "name": "Vidya Niketan Group of Schools",
+    "city": "Hyderabad",
+    "board": "CBSE",
+    "pal_enabled": true,
+    "sections": [
+      "A",
+      "B",
+      "C"
+    ],
+    "learner_count": 72,
+    "onboarded_on": "2026-08-25",
+    "require_verified_questions": false,
+    "dashboard_logins": 1,
+    "sync": {
+      "geneo_students": 540,
+      "linked_learners": 72,
+      "pending_to_link": 0,
+      "last_sync_at": "2026-10-15T02:00:00Z",
+      "status": "synced",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "linked": 72,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-14",
+          "linked": 69,
+          "new_links": 2
+        },
+        {
+          "date": "2026-10-13",
+          "linked": 72,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-12",
+          "linked": 63,
+          "new_links": 3
+        },
+        {
+          "date": "2026-10-11",
+          "linked": 64,
+          "new_links": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "S103",
+    "name": "Greenfield International School",
+    "city": "Pune",
+    "board": "ICSE",
+    "pal_enabled": true,
+    "sections": [
+      "A",
+      "B",
+      "C"
+    ],
+    "learner_count": 66,
+    "onboarded_on": "2026-08-27",
+    "require_verified_questions": false,
+    "dashboard_logins": 1,
+    "sync": {
+      "geneo_students": 388,
+      "linked_learners": 66,
+      "pending_to_link": 5,
+      "last_sync_at": "2026-10-15T02:00:00Z",
+      "status": "synced",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "linked": 66,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-14",
+          "linked": 64,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-13",
+          "linked": 60,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-12",
+          "linked": 63,
+          "new_links": 2
+        },
+        {
+          "date": "2026-10-11",
+          "linked": 58,
+          "new_links": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "S104",
+    "name": "Sunrise Academy",
+    "city": "Jaipur",
+    "board": "State",
+    "pal_enabled": true,
+    "sections": [
+      "A",
+      "B"
+    ],
+    "learner_count": 58,
+    "onboarded_on": "2026-09-02",
+    "require_verified_questions": false,
+    "dashboard_logins": 1,
+    "sync": {
+      "geneo_students": 297,
+      "linked_learners": 58,
+      "pending_to_link": 0,
+      "last_sync_at": "2026-10-15T02:00:00Z",
+      "status": "synced",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "linked": 58,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-14",
+          "linked": 58,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-13",
+          "linked": 52,
+          "new_links": 1
+        },
+        {
+          "date": "2026-10-12",
+          "linked": 49,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-11",
+          "linked": 54,
+          "new_links": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "S105",
+    "name": "Kaveri Model School",
+    "city": "Mysuru",
+    "board": "State",
+    "pal_enabled": true,
+    "sections": [
+      "A",
+      "B"
+    ],
+    "learner_count": 48,
+    "onboarded_on": "2026-09-19",
+    "require_verified_questions": false,
+    "dashboard_logins": 1,
+    "sync": {
+      "geneo_students": 205,
+      "linked_learners": 48,
+      "pending_to_link": 0,
+      "last_sync_at": "2026-10-15T02:00:00Z",
+      "status": "synced",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "linked": 48,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-14",
+          "linked": 46,
+          "new_links": 3
+        },
+        {
+          "date": "2026-10-13",
+          "linked": 42,
+          "new_links": 3
+        },
+        {
+          "date": "2026-10-12",
+          "linked": 39,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-11",
+          "linked": 40,
+          "new_links": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "S106",
+    "name": "Meridian Convent School",
+    "city": "Chennai",
+    "board": "CBSE",
+    "pal_enabled": true,
+    "sections": [
+      "A",
+      "B",
+      "C"
+    ],
+    "learner_count": 0,
+    "onboarded_on": "2026-10-12",
+    "require_verified_questions": false,
+    "dashboard_logins": 1,
+    "sync": {
+      "geneo_students": 140,
+      "linked_learners": 0,
+      "pending_to_link": 0,
+      "last_sync_at": "2026-10-15T02:00:00Z",
+      "status": "waiting-for-first-learner",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "linked": 0,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-14",
+          "linked": 0,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-13",
+          "linked": 0,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-12",
+          "linked": 0,
+          "new_links": 0
+        },
+        {
+          "date": "2026-10-11",
+          "linked": 0,
+          "new_links": 0
+        }
+      ]
+    }
+  }
+]

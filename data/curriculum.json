@@ -1,0 +1,493 @@
+{
+  "chapters": [
+    {
+      "id": "M1",
+      "name": "Integers",
+      "subject": "Mathematics",
+      "order": 1
+    },
+    {
+      "id": "M2",
+      "name": "Fractions",
+      "subject": "Mathematics",
+      "order": 2
+    },
+    {
+      "id": "M3",
+      "name": "Decimals",
+      "subject": "Mathematics",
+      "order": 3
+    },
+    {
+      "id": "M4",
+      "name": "Ratio and Proportion",
+      "subject": "Mathematics",
+      "order": 4
+    },
+    {
+      "id": "M5",
+      "name": "Algebra Basics",
+      "subject": "Mathematics",
+      "order": 5
+    },
+    {
+      "id": "M6",
+      "name": "Mensuration",
+      "subject": "Mathematics",
+      "order": 6
+    },
+    {
+      "id": "SC1",
+      "name": "Food and Nutrition",
+      "subject": "Science",
+      "order": 1
+    },
+    {
+      "id": "SC2",
+      "name": "Materials",
+      "subject": "Science",
+      "order": 2
+    },
+    {
+      "id": "SC3",
+      "name": "Motion",
+      "subject": "Science",
+      "order": 3
+    },
+    {
+      "id": "SC4",
+      "name": "Light",
+      "subject": "Science",
+      "order": 4
+    }
+  ],
+  "concepts": [
+    {
+      "id": "M1.1",
+      "chapter_id": "M1",
+      "subject": "Mathematics",
+      "name": "Meaning of integers",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 3,
+      "difficulty": 0.3
+    },
+    {
+      "id": "M1.2",
+      "chapter_id": "M1",
+      "subject": "Mathematics",
+      "name": "Adding and subtracting integers",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 3,
+      "difficulty": 0.42
+    },
+    {
+      "id": "M1.3",
+      "chapter_id": "M1",
+      "subject": "Mathematics",
+      "name": "Multiplying and dividing integers",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 4,
+      "difficulty": 0.54
+    },
+    {
+      "id": "M2.1",
+      "chapter_id": "M2",
+      "subject": "Mathematics",
+      "name": "Types of fractions",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 4,
+      "difficulty": 0.315
+    },
+    {
+      "id": "M2.2",
+      "chapter_id": "M2",
+      "subject": "Mathematics",
+      "name": "Adding and subtracting fractions",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 3,
+      "difficulty": 0.435
+    },
+    {
+      "id": "M2.3",
+      "chapter_id": "M2",
+      "subject": "Mathematics",
+      "name": "Multiplying and dividing fractions",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 3,
+      "difficulty": 0.555
+    },
+    {
+      "id": "M3.1",
+      "chapter_id": "M3",
+      "subject": "Mathematics",
+      "name": "Place value in decimals",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 3,
+      "difficulty": 0.33
+    },
+    {
+      "id": "M3.2",
+      "chapter_id": "M3",
+      "subject": "Mathematics",
+      "name": "Operations with decimals",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 5,
+      "difficulty": 0.45
+    },
+    {
+      "id": "M3.3",
+      "chapter_id": "M3",
+      "subject": "Mathematics",
+      "name": "Decimals in money and measures",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 3,
+      "difficulty": 0.57
+    },
+    {
+      "id": "M4.1",
+      "chapter_id": "M4",
+      "subject": "Mathematics",
+      "name": "Understanding ratio",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 5,
+      "difficulty": 0.345
+    },
+    {
+      "id": "M4.2",
+      "chapter_id": "M4",
+      "subject": "Mathematics",
+      "name": "Equivalent ratios",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 4,
+      "difficulty": 0.465
+    },
+    {
+      "id": "M4.3",
+      "chapter_id": "M4",
+      "subject": "Mathematics",
+      "name": "Unitary method and proportion",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 4,
+      "difficulty": 0.585
+    },
+    {
+      "id": "M5.1",
+      "chapter_id": "M5",
+      "subject": "Mathematics",
+      "name": "Variables and expressions",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 5,
+      "difficulty": 0.36
+    },
+    {
+      "id": "M5.2",
+      "chapter_id": "M5",
+      "subject": "Mathematics",
+      "name": "Forming equations",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 5,
+      "difficulty": 0.48
+    },
+    {
+      "id": "M5.3",
+      "chapter_id": "M5",
+      "subject": "Mathematics",
+      "name": "Solving simple equations",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 5,
+      "difficulty": 0.6
+    },
+    {
+      "id": "M6.1",
+      "chapter_id": "M6",
+      "subject": "Mathematics",
+      "name": "Perimeter",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 5,
+      "difficulty": 0.375
+    },
+    {
+      "id": "M6.2",
+      "chapter_id": "M6",
+      "subject": "Mathematics",
+      "name": "Area of rectangles and triangles",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 5,
+      "difficulty": 0.495
+    },
+    {
+      "id": "M6.3",
+      "chapter_id": "M6",
+      "subject": "Mathematics",
+      "name": "Area of composite shapes",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 5,
+      "difficulty": 0.615
+    },
+    {
+      "id": "SC1.1",
+      "chapter_id": "SC1",
+      "subject": "Science",
+      "name": "Nutrients",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 4,
+      "difficulty": 0.3
+    },
+    {
+      "id": "SC1.2",
+      "chapter_id": "SC1",
+      "subject": "Science",
+      "name": "Balanced diet",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 3,
+      "difficulty": 0.42
+    },
+    {
+      "id": "SC1.3",
+      "chapter_id": "SC1",
+      "subject": "Science",
+      "name": "Deficiency diseases",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 4,
+      "difficulty": 0.54
+    },
+    {
+      "id": "SC2.1",
+      "chapter_id": "SC2",
+      "subject": "Science",
+      "name": "Fibres to fabric",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 5,
+      "difficulty": 0.315
+    },
+    {
+      "id": "SC2.2",
+      "chapter_id": "SC2",
+      "subject": "Science",
+      "name": "Properties of materials",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 3,
+      "difficulty": 0.435
+    },
+    {
+      "id": "SC2.3",
+      "chapter_id": "SC2",
+      "subject": "Science",
+      "name": "Separation of substances",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 3,
+      "difficulty": 0.555
+    },
+    {
+      "id": "SC3.1",
+      "chapter_id": "SC3",
+      "subject": "Science",
+      "name": "Measuring distance",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 5,
+      "difficulty": 0.33
+    },
+    {
+      "id": "SC3.2",
+      "chapter_id": "SC3",
+      "subject": "Science",
+      "name": "Speed and time",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 3,
+      "difficulty": 0.45
+    },
+    {
+      "id": "SC3.3",
+      "chapter_id": "SC3",
+      "subject": "Science",
+      "name": "Types of motion",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 3,
+      "difficulty": 0.57
+    },
+    {
+      "id": "SC4.1",
+      "chapter_id": "SC4",
+      "subject": "Science",
+      "name": "Sources of light",
+      "order": 1,
+      "tier": "Foundational",
+      "learning_objectives": 5,
+      "difficulty": 0.345
+    },
+    {
+      "id": "SC4.2",
+      "chapter_id": "SC4",
+      "subject": "Science",
+      "name": "Shadows",
+      "order": 2,
+      "tier": "Core",
+      "learning_objectives": 4,
+      "difficulty": 0.465
+    },
+    {
+      "id": "SC4.3",
+      "chapter_id": "SC4",
+      "subject": "Science",
+      "name": "Reflection",
+      "order": 3,
+      "tier": "Advanced",
+      "learning_objectives": 3,
+      "difficulty": 0.585
+    }
+  ],
+  "edges": [
+    {
+      "from_id": "M1.1",
+      "to_id": "M1.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M1.2",
+      "to_id": "M1.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M2.1",
+      "to_id": "M2.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M2.2",
+      "to_id": "M2.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M1.3",
+      "to_id": "M2.1",
+      "within_chapter": false
+    },
+    {
+      "from_id": "M3.1",
+      "to_id": "M3.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M3.2",
+      "to_id": "M3.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M2.3",
+      "to_id": "M3.1",
+      "within_chapter": false
+    },
+    {
+      "from_id": "M4.1",
+      "to_id": "M4.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M4.2",
+      "to_id": "M4.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M2.3",
+      "to_id": "M4.1",
+      "within_chapter": false
+    },
+    {
+      "from_id": "M5.1",
+      "to_id": "M5.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M5.2",
+      "to_id": "M5.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M1.3",
+      "to_id": "M5.1",
+      "within_chapter": false
+    },
+    {
+      "from_id": "M6.1",
+      "to_id": "M6.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M6.2",
+      "to_id": "M6.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "M3.3",
+      "to_id": "M6.1",
+      "within_chapter": false
+    },
+    {
+      "from_id": "SC1.1",
+      "to_id": "SC1.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC1.2",
+      "to_id": "SC1.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC2.1",
+      "to_id": "SC2.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC2.2",
+      "to_id": "SC2.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC3.1",
+      "to_id": "SC3.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC3.2",
+      "to_id": "SC3.3",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC4.1",
+      "to_id": "SC4.2",
+      "within_chapter": true
+    },
+    {
+      "from_id": "SC4.2",
+      "to_id": "SC4.3",
+      "within_chapter": true
+    }
+  ]
+}
